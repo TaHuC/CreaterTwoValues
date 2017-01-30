@@ -1,0 +1,3 @@
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/bin/Release/CreaterTwoValues.exe
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/obj/x86/Release/CreaterTwoValues.exe

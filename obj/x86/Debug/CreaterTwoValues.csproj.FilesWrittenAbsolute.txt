@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/bin/Debug/CreaterTwoValues.exe.mdb
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/bin/Debug/CreaterTwoValues.exe
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/obj/x86/Debug/CreaterTwoValues.exe
+/Users/TaHuC/Projects/CreaterTwoValues/CreaterTwoValues/obj/x86/Debug/CreaterTwoValues.exe.mdb
